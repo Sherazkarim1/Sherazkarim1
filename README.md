@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Sheraz Karim! 👋
 
-<!--
-**Sherazkarim1/Sherazkarim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a DevOps Engineer with a passion for automating workflows and ensuring robust CI/CD pipelines. I specialize in creating efficient, scalable, and reliable infrastructure to support large-scale software deployments.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Cloud Platforms:** AWS, Azure, GCP
+- **Containers & Orchestration:** Docker, Kubernetes, OpenShift
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+- **Infrastructure as Code:** Terraform, Ansible, Pulumi
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Scripting:** Bash, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+- Automating deployment processes for microservices using Kubernetes.
+- Implementing comprehensive monitoring solutions to proactively manage system health.
+- Exploring the capabilities of serverless architectures to optimize operational costs.
+
+## 🌱 I’m currently learning
+- Advanced Kubernetes configurations and optimizations.
+- Security best practices for cloud-native applications.
+
+## 📈 GitHub Stats
+
+![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherazkarim1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherazkarim1&layout=compact&theme=radical)
+
+## 📫 How to reach me
+- **Email:** sherazkarim12@gmail.com
+- **LinkedIn:** [Sheraz Karim](https://www.linkedin.com/in/sheraz-karim-3b3149244/)
