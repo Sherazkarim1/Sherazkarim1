@@ -29,4 +29,4 @@ I'm a DevOps Engineer with a passion for automating workflows and ensuring robus
 ## 📫 How to reach me
 - **Email:** [Click here](mailto:sherazkarim12@gmail.com)
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/sheraz-karim-3b3149244/)
-- **LinkedIn:** [Click here](https://x.com/sherazkarim01?t=bSrXeFk98YepBtV_3looug&s=09)
+- **X:** [Click here](https://x.com/sherazkarim01?t=bSrXeFk98YepBtV_3looug&s=09)
