@@ -27,5 +27,5 @@ I'm a DevOps Engineer with a passion for automating workflows and ensuring robus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherazkarim1&layout=compact&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** sherazkarim12@gmail.com
-- **LinkedIn:** [Sheraz Karim](https://www.linkedin.com/in/sheraz-karim-3b3149244/)
+- **Email:** [👉SK](mailto:sherazkarim12@gmail.com)
+- **LinkedIn:** [👉SK](https://www.linkedin.com/in/sheraz-karim-3b3149244/)
