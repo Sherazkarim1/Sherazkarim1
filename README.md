@@ -61,7 +61,7 @@ My work sits at the intersection of:
 
 <div align="center">
 
-## ⚡ WHAT I BUILD
+## WHAT I BUILD
 
 </div>
 
