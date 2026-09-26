@@ -4,21 +4,23 @@
 
 ### `AI Engineer` • `Full-Stack Engineer` • `DevOps / MLOps`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Systems+%F0%9F%A4%96;Engineering+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps;Full-Stack+%7C+DevOps+%7C+Cloud+Engineering;Turning+Ideas+Into+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Full-Stack+Engineer;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Voice+AI;Cloud+%7C+DevOps+%7C+MLOps+%7C+AWS;Building+Production-Ready+AI+Systems;Automate+%E2%80%A2+Scale+%E2%80%A2+Deploy+%E2%80%A2+Innovate+%F0%9F%9A%80" alt="Typing animation" />
 
-<br/>
+<br>
 
 <a href="https://github.com/Sherazkarim1">
-<img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&color=181717" />
-</a>
-<a href="https://github.com/Sherazkarim1?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-50%2B-00F7FF?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<a href="https://github.com/Sherazkarim1?tab=repositories">
+<img src="https://img.shields.io/badge/50%2B%20Projects-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 
@@ -28,105 +30,120 @@
 
 <div align="center">
 
-## 🧠 ENGINEERING × AI × CLOUD
+## 🧠 AI × CLOUD × SOFTWARE ENGINEERING
+
+### Building intelligent systems from idea → architecture → production
 
 </div>
 
-> **I build intelligent software systems that don't just work — they scale, automate, observe, and continuously improve.**
+I'm **Sheraz Karim**, an **AI Engineer and Full-Stack Engineer** passionate about building intelligent, scalable and production-ready systems.
 
-I'm **Sheraz Karim**, an **AI Engineer & Full-Stack Developer** focused on building production-ready applications across **Generative AI, LLMs, RAG, AI Agents, Cloud, DevOps, MLOps and distributed systems**.
-
-My work sits at the intersection of:
+My engineering work combines:
 
 ```text
-       🤖 ARTIFICIAL INTELLIGENCE
-                    │
-                    ▼
-        LLMs ── RAG ── AI AGENTS
-                    │
-                    ▼
-       ⚙️ FULL-STACK APPLICATIONS
-                    │
-                    ▼
-       🐳 DOCKER ── KUBERNETES
-                    │
-                    ▼
-       ☁️ AWS ── CLOUD INFRASTRUCTURE
-                    │
-                    ▼
-       🚀 CI/CD ── MLOps ── OBSERVABILITY
+                    ┌─────────────────────────┐
+                    │     🤖 ARTIFICIAL AI    │
+                    │                         │
+                    │  LLMs • RAG • Agents    │
+                    │  Voice AI • Automation   │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │    💻 FULL-STACK        │
+                    │                         │
+                    │ Python • FastAPI        │
+                    │ React • Next.js         │
+                    │ PostgreSQL • APIs       │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │    ☁️ CLOUD & DEVOPS    │
+                    │                         │
+                    │ AWS • Docker • K8s      │
+                    │ Terraform • CI/CD       │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       🚀 MLOps          │
+                    │                         │
+                    │ Deploy • Monitor        │
+                    │ Automate • Scale        │
+                    └─────────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-## ⚡ WHAT I BUILD
+## 🚀 WHAT I BUILD
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Generative AI
+## 🤖 Generative AI
 
-* LLM Applications
-* RAG Pipelines
-* AI Agents
-* AI Automation
-* Voice AI
-* Prompt Engineering
-* AI Evaluation
-* Document Intelligence
-* OCR & Intelligent Processing
+* 🧠 LLM Applications
+* 🔎 RAG Systems
+* 🤝 AI Agents
+* 🎙️ Voice AI
+* ⚙️ AI Automation
+* 📄 Document Intelligence
+* 👁️ OCR Pipelines
+* 📊 AI Evaluation
+* ✨ Prompt Engineering
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
-* AWS Architecture
-* Docker & Kubernetes
-* CI/CD Automation
-* Infrastructure as Code
-* Terraform
-* Linux
-* Monitoring & Observability
-* MLOps
-* Production Deployments
+* ☁️ AWS
+* 🐳 Docker
+* ☸️ Kubernetes
+* 🏗️ Terraform
+* 🔄 CI/CD
+* 🐧 Linux
+* 📈 Monitoring
+* 🔐 Cloud Security
+* 🚀 Production Deployment
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td valign="top">
 
-### 💻 Full-Stack Engineering
+## 💻 Full-Stack
 
-* Python
-* FastAPI
-* React
-* Next.js
-* Node.js
-* REST APIs
-* PostgreSQL
-* Redis
-* Microservices
+* 🐍 Python
+* ⚡ FastAPI
+* ⚛️ React
+* ▲ Next.js
+* 🟢 Node.js
+* 🔌 REST APIs
+* 🐘 PostgreSQL
+* 🔴 Redis
+* 🧩 Microservices
 
 </td>
 
-<td>
+<td valign="top">
 
-### 🧠 AI Engineering
+## 🧠 AI Engineering
 
 * Python
 * Machine Learning
 * LLM Integration
-* RAG
-* Vector Databases
 * Embeddings
+* Vector Search
+* RAG Pipelines
 * AI Workflows
 * Model Evaluation
 * Intelligent Automation
@@ -139,32 +156,40 @@ My work sits at the intersection of:
 
 <div align="center">
 
-## 🛠️ TECHNOLOGY STACK
+# 🛠️ TECHNOLOGY STACK
 
 ### ☁️ Cloud & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,linux" />
 
+<br><br>
+
 ### 🤖 AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
-<br/>
+<br><br>
 
 <img src="https://img.shields.io/badge/LLMs-Generative%20AI-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Agents-Automation-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector%20Databases-RAG-00B8D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Voice%20AI-Conversational%20AI-7C4DFF?style=for-the-badge" />
 
-### 💻 Development
+<br><br>
+
+### 💻 Full-Stack Development
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,typescript,javascript,postgresql,redis,mongodb" />
+
+<br><br>
 
 ### 🔄 DevOps & CI/CD
 
 <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,terraform,prometheus,grafana" />
 
-### 🔧 Tools
+<br><br>
+
+### 🔧 Engineering Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" />
 
@@ -174,74 +199,69 @@ My work sits at the intersection of:
 
 <div align="center">
 
-## 🚀 CURRENTLY BUILDING
+## 🔥 CURRENT FOCUS
 
 </div>
 
 ```yaml
-focus:
+AI:
   - Generative AI
   - LLM Applications
-  - RAG Systems
+  - RAG
   - AI Agents
   - Voice AI
   - AI Automation
 
-engineering:
-  - Full-Stack Applications
+Engineering:
+  - Full-Stack Development
   - Microservices
-  - Cloud Architecture
-  - DevOps
-  - MLOps
-  - CI/CD
+  - API Architecture
+  - Distributed Systems
 
-cloud:
+Cloud:
   - AWS
   - Docker
   - Kubernetes
   - Terraform
 
-goal:
-  "Turn complex ideas into reliable production systems."
+MLOps:
+  - Model Deployment
+  - CI/CD
+  - Monitoring
+  - Observability
+  - Production Automation
+
+mission:
+  "Turn complex ideas into simple, scalable and intelligent systems."
 ```
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+<br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazkarim1&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
+<a href="https://github.com/Sherazkarim1">
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
 
-<br/>
+</a>
 
-<div align="center">
+<a href="https://github.com/Sherazkarim1">
 
-<img src="https://streak-stats.demolab.com?user=Sherazkarim1&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sherazkarim1&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=320" />
 
-</div>
+</a>
 
----
+<br><br>
 
-<div align="center">
+<a href="https://github.com/Sherazkarim1">
 
-## 🐍 CONTRIBUTION ACTIVITY
+<img src="https://streak-stats.demolab.com/?user=Sherazkarim1&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 GITHUB ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</a>
 
 </div>
 
@@ -249,19 +269,40 @@ goal:
 
 <div align="center">
 
-## 🏗️ ENGINEERING PHILOSOPHY
+# 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&bg_color=0d1117&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏗️ HOW I ENGINEER
 
 </div>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖
 
-**Automate**
+## AUTOMATE
 
-Reduce repetitive work through intelligent automation.
+Eliminate repetitive work with intelligent automation.
 
 </td>
 
@@ -269,9 +310,9 @@ Reduce repetitive work through intelligent automation.
 
 ### ☁️
 
-**Scale**
+## SCALE
 
-Design systems that can grow without becoming fragile.
+Design infrastructure that grows with the product.
 
 </td>
 
@@ -279,9 +320,9 @@ Design systems that can grow without becoming fragile.
 
 ### 🔐
 
-**Secure**
+## SECURE
 
-Build with reliability, security and maintainability in mind.
+Build reliable systems with security in mind.
 
 </td>
 
@@ -289,11 +330,12 @@ Build with reliability, security and maintainability in mind.
 
 ### 🚀
 
-**Ship**
+## SHIP
 
-Move ideas from prototype → production.
+Move rapidly from prototype to production.
 
 </td>
+
 </tr>
 </table>
 
@@ -301,10 +343,12 @@ Move ideas from prototype → production.
 
 <div align="center">
 
-## 🌎 LET'S CONNECT
+# 🌎 CONNECT WITH ME
+
+<br>
 
 <a href="mailto:sherazkarim12@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
@@ -325,10 +369,10 @@ Move ideas from prototype → production.
 
 <div align="center">
 
-### 💡 "Build intelligent systems. Automate everything. Ship continuously."
+### ⚡ BUILD INTELLIGENTLY. AUTOMATE EVERYTHING. SHIP CONTINUOUSLY.
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:00C853&height=130&section=footer" />
 
 </div>
