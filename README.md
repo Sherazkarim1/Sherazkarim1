@@ -103,7 +103,7 @@ My work sits at the intersection of:
 <tr>
 <td>
 
-### 💻 Full-Stack Engineering
+###  Full-Stack Engineering
 
 * Python
 * FastAPI
