@@ -221,25 +221,12 @@ goal:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sherazkarim1&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
 
 <div align="center">
 
-##  CONTRIBUTION ACTIVITY
-
-
-
-</div>
-
----
-
-<div align="center">
-
-##  GITHUB ACTIVITY
 
 
 </div>
