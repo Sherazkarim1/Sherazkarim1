@@ -9,18 +9,18 @@
 <br/>
 
 <a href="https://github.com/Sherazkarim1">
-<img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&color=181717" />
+<img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Sherazkarim1?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-50%2B-00F7FF?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Projects-50%2B-00F7FF?style=for-the-badge&logo=github" alt="50+ projects" />
 </a>
 <a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-##  ENGINEERING × AI × CLOUD
+## 🧠 ENGINEERING × AI × CLOUD
 
 </div>
 
@@ -61,7 +61,7 @@ My work sits at the intersection of:
 
 <div align="center">
 
-##  WHAT I BUILD
+## 🛠️ WHAT I BUILD
 
 </div>
 
@@ -85,7 +85,7 @@ My work sits at the intersection of:
 
 <td width="50%">
 
-###  Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 * AWS Architecture
 * Docker & Kubernetes
@@ -103,7 +103,7 @@ My work sits at the intersection of:
 <tr>
 <td>
 
-###  Full-Stack Engineering
+### 💻 Full-Stack Engineering
 
 * Python
 * FastAPI
@@ -119,7 +119,7 @@ My work sits at the intersection of:
 
 <td>
 
-###  AI Engineering
+### 🧬 AI Engineering
 
 * Python
 * Machine Learning
@@ -139,34 +139,34 @@ My work sits at the intersection of:
 
 <div align="center">
 
-##  TECHNOLOGY STACK
+## ⚙️ TECHNOLOGY STACK
 
-###  Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,linux" alt="Cloud & infrastructure stack" />
 
-###  AI & Machine Learning
+### 🧠 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI & ML stack" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLMs-Generative%20AI-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Agents-Automation-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector%20Databases-RAG-00B8D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-8A2BE2?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6B6B?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/AI%20Agents-Automation-00C853?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Vector%20Databases-RAG-00B8D4?style=for-the-badge" alt="Vector Databases" />
 
-###  Development
+### 👨‍💻 Development
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,typescript,javascript,postgresql,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,typescript,javascript,postgresql,redis,mongodb" alt="Development stack" />
 
-###  DevOps & CI/CD
+### 🔄 DevOps & CI/CD
 
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,terraform,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,terraform,prometheus,grafana" alt="DevOps & CI/CD stack" />
 
-###  Tools
+### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" alt="Tools" />
 
 </div>
 
@@ -174,7 +174,7 @@ My work sits at the intersection of:
 
 <div align="center">
 
-##  CURRENTLY BUILDING
+## 🚧 CURRENTLY BUILDING
 
 </div>
 
@@ -209,11 +209,21 @@ goal:
 
 <div align="center">
 
-##  GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+<!--
+  NOTE: These two images are generated live by a shared, community-run
+  Vercel deployment of github-readme-stats. It periodically hits GitHub's
+  API rate limit or goes down under load, which is the most likely reason
+  these looked broken in your preview. They usually recover on their own
+  within minutes to hours. If breakage is frequent, deploy your own free
+  instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  and swap the domain below for your own Vercel URL.
+-->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazkarim1&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Sheraz's GitHub stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazkarim1&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top languages" />
 
 </div>
 
@@ -221,7 +231,8 @@ goal:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sherazkarim1&theme=tokyonight&hide_border=true" />
+<!-- Same shared-server caveat applies here (streak-stats.demolab.com) -->
+<img src="https://streak-stats.demolab.com?user=Sherazkarim1&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
@@ -229,19 +240,17 @@ goal:
 
 <div align="center">
 
-##  CONTRIBUTION ACTIVITY
+## 🐍 CONTRIBUTION ACTIVITY
 
-<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-##  GITHUB ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<!--
+  ACTION NEEDED: This image was returning a 404 — the snake SVG doesn't
+  exist yet at Sherazkarim1/Sherazkarim1's "output" branch. This file is
+  generated by a GitHub Action, not fetched from a live service, so it
+  will stay broken until you add the workflow below to this repo:
+  .github/workflows/snake.yml — see setup guide:
+  https://github.com/Platane/snk
+-->
+<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -249,7 +258,18 @@ goal:
 
 <div align="center">
 
-##  ENGINEERING PHILOSOPHY
+## 📈 GITHUB ACTIVITY
+
+<!-- Also a shared community server (github-readme-activity-graph) — same rate-limit caveat -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧭 ENGINEERING PHILOSOPHY
 
 </div>
 
@@ -267,7 +287,7 @@ Reduce repetitive work through intelligent automation.
 
 <td align="center" width="25%">
 
-### 
+### 📐
 
 **Scale**
 
@@ -277,7 +297,7 @@ Design systems that can grow without becoming fragile.
 
 <td align="center" width="25%">
 
-### 
+### 🔒
 
 **Secure**
 
@@ -287,7 +307,7 @@ Build with reliability, security and maintainability in mind.
 
 <td align="center" width="25%">
 
-### 
+### 🚀
 
 **Ship**
 
@@ -301,22 +321,22 @@ Move ideas from prototype → production.
 
 <div align="center">
 
-##  LET'S CONNECT
+## 📬 LET'S CONNECT
 
 <a href="mailto:sherazkarim12@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://x.com/sherazkarim01">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
 
 <a href="https://github.com/Sherazkarim1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -329,6 +349,6 @@ Move ideas from prototype → production.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=footer" alt="Footer wave" />
 
 </div>
