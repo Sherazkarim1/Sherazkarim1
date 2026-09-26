@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SHERAZ KARIM
+# SHERAZ KARIM
 
 ### `AI Engineer` • `Full-Stack Engineer` • `DevOps / MLOps`
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## 🧠 ENGINEERING × AI × CLOUD
+##  ENGINEERING × AI × CLOUD
 
 </div>
 
@@ -39,29 +39,29 @@ I'm **Sheraz Karim**, an **AI Engineer & Full-Stack Developer** focused on build
 My work sits at the intersection of:
 
 ```text
-       🤖 ARTIFICIAL INTELLIGENCE
+        ARTIFICIAL INTELLIGENCE
                     │
                     ▼
         LLMs ── RAG ── AI AGENTS
                     │
                     ▼
-       ⚙️ FULL-STACK APPLICATIONS
+        FULL-STACK APPLICATIONS
                     │
                     ▼
-       🐳 DOCKER ── KUBERNETES
+        DOCKER ── KUBERNETES
                     │
                     ▼
-       ☁️ AWS ── CLOUD INFRASTRUCTURE
+        AWS ── CLOUD INFRASTRUCTURE
                     │
                     ▼
-       🚀 CI/CD ── MLOps ── OBSERVABILITY
+        CI/CD ── MLOps ── OBSERVABILITY
 ```
 
 ---
 
 <div align="center">
 
-## ⚡ WHAT I BUILD
+##  WHAT I BUILD
 
 </div>
 
@@ -85,7 +85,7 @@ My work sits at the intersection of:
 
 <td width="50%">
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 * AWS Architecture
 * Docker & Kubernetes
@@ -103,7 +103,7 @@ My work sits at the intersection of:
 <tr>
 <td>
 
-### 💻 Full-Stack Engineering
+###  Full-Stack Engineering
 
 * Python
 * FastAPI
@@ -119,7 +119,7 @@ My work sits at the intersection of:
 
 <td>
 
-### 🧠 AI Engineering
+###  AI Engineering
 
 * Python
 * Machine Learning
@@ -139,13 +139,13 @@ My work sits at the intersection of:
 
 <div align="center">
 
-## 🛠️ TECHNOLOGY STACK
+##  TECHNOLOGY STACK
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,linux" />
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
@@ -156,15 +156,15 @@ My work sits at the intersection of:
 <img src="https://img.shields.io/badge/AI%20Agents-Automation-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vector%20Databases-RAG-00B8D4?style=for-the-badge" />
 
-### 💻 Development
+###  Development
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,typescript,javascript,postgresql,redis,mongodb" />
 
-### 🔄 DevOps & CI/CD
+###  DevOps & CI/CD
 
 <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,terraform,prometheus,grafana" />
 
-### 🔧 Tools
+###  Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" />
 
@@ -174,7 +174,7 @@ My work sits at the intersection of:
 
 <div align="center">
 
-## 🚀 CURRENTLY BUILDING
+##  CURRENTLY BUILDING
 
 </div>
 
@@ -209,7 +209,7 @@ goal:
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+##  GITHUB ANALYTICS
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
 
@@ -229,7 +229,7 @@ goal:
 
 <div align="center">
 
-## 🐍 CONTRIBUTION ACTIVITY
+##  CONTRIBUTION ACTIVITY
 
 <img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/github-contribution-grid-snake-dark.svg" />
 
@@ -239,7 +239,7 @@ goal:
 
 <div align="center">
 
-## 📈 GITHUB ACTIVITY
+##  GITHUB ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
@@ -249,7 +249,7 @@ goal:
 
 <div align="center">
 
-## 🏗️ ENGINEERING PHILOSOPHY
+##  ENGINEERING PHILOSOPHY
 
 </div>
 
@@ -267,7 +267,7 @@ Reduce repetitive work through intelligent automation.
 
 <td align="center" width="25%">
 
-### ☁️
+### 
 
 **Scale**
 
@@ -277,7 +277,7 @@ Design systems that can grow without becoming fragile.
 
 <td align="center" width="25%">
 
-### 🔐
+### 
 
 **Secure**
 
@@ -287,7 +287,7 @@ Build with reliability, security and maintainability in mind.
 
 <td align="center" width="25%">
 
-### 🚀
+### 
 
 **Ship**
 
@@ -301,7 +301,7 @@ Move ideas from prototype → production.
 
 <div align="center">
 
-## 🌎 LET'S CONNECT
+##  LET'S CONNECT
 
 <a href="mailto:sherazkarim12@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
