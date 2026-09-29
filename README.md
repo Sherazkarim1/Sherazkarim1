@@ -279,12 +279,11 @@ class SherazKarim:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Sherazkarim1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7B2FFF&fire=FF0080&currStreakLabel=00F7FF&border_radius=15" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=Sherazkarim1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7B2FFF&fire=FF0080&currStreakLabel=00F7FF&border_radius=15&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sherazkarim1&theme=tokyonight" width="100%" alt="Profile details" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sherazkarim1&theme=tokyonight" alt="Repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sherazkarim1&theme=tokyonight" alt="Most commit language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sherazkarim1&theme=tokyonight" alt="Stats" />
