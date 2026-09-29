@@ -21,12 +21,9 @@
 
 <img src="https://img.shields.io/badge/LOCATION-Remote_%7C_Global-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Location" />
 
-<img src="https://img.shields.io/badge/RESPONSE-Within_24h-FF0080?style=for-the-badge&labelColor=0D1117" alt="Response time" />
+<br/>
 
-
-<br/><br/>
-
-<br/><br/>
+<br/>
 
 <!-- QUICK LINKS -->
 <a href="#about-me"><img src="https://img.shields.io/badge/_About-0D1117?style=for-the-badge" alt="About" /></a>
