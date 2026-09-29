@@ -1,488 +1,471 @@
-<!-- ========================================================= -->
-
-<!--                    SHERAZ KARIM — GITHUB README             -->
-
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SHERAZ KARIM • AI × CLOUD                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF0080&height=230&section=header&text=SHERAZ%20KARIM&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%2F%20MLOps&descAlignY=58&descSize=19&animation=fadeIn" width="100%" />
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SHERAZ%20KARIM&fontSize=75&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20DevOps%20%2F%20MLOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Banner" />
 
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/Sherazkarim1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=AI+Engineer+%7C+Full-Stack+Engineer;LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+production-ready+AI+and+cloud+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=%F0%9F%A4%96+Building+AI-Powered+Systems+at+Scale;%E2%98%81%EF%B8%8F+Engineering+Cloud-Native+Infrastructure;%F0%9F%94%97+LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps+%7C+DevOps;%F0%9F%9A%80+Turning+Complex+Ideas+Into+Production-Ready+Systems;%E2%9A%A1+Automate.+Scale.+Secure.+Ship.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Sherazkarim1">
-  <img src="https://img.shields.io/badge/GitHub-Sherazkarim1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sheraz%20Karim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_OPEN_TO-AI_%7C_Cloud_%7C_MLOps_%7C_Full--Stack-00C853?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D_LOCATION-Remote_%7C_Global-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Location" />
+<img src="https://img.shields.io/badge/%E2%9A%A1_RESPONSE-Within_24h-FF0080?style=for-the-badge&labelColor=0D1117" alt="Response time" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- SOCIAL PROOF -->
+<a href="https://github.com/Sherazkarim1?tab=followers">
+  <img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117&logoColor=white" alt="Followers" />
+</a>
+<a href="https://github.com/Sherazkarim1?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Sherazkarim1?label=Stars&style=for-the-badge&logo=github&color=7B2FFF&labelColor=0D1117&logoColor=white" alt="Stars" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<!-- QUICK LINKS -->
+<a href="#about-me"><img src="https://img.shields.io/badge/📖_About-0D1117?style=for-the-badge" alt="About" /></a>
+<a href="#tech-arsenal"><img src="https://img.shields.io/badge/🛠️_Stack-0D1117?style=for-the-badge" alt="Stack" /></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-0D1117?style=for-the-badge" alt="Projects" /></a>
+<a href="#github-analytics"><img src="https://img.shields.io/badge/📊_Stats-0D1117?style=for-the-badge" alt="Stats" /></a>
+<a href="#lets-connect"><img src="https://img.shields.io/badge/🤝_Connect-0D1117?style=for-the-badge" alt="Connect" /></a>
 
 </div>
 
-👋 About Me
+<br/>
 
-I'm Sheraz Karim, an AI Engineer and Full-Stack Developer focused on building intelligent applications, cloud-native infrastructure, and production-ready automation systems.
+<!-- SNAKE (requires the snake GitHub Action, see notes) -->
+<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 
-My core areas include:
+<br/>
 
-🤖 Generative AI, LLMs, RAG and AI agents
+---
 
-🧠 Machine learning and model evaluation
+<h2 align="center" id="about-me">👋 ABOUT ME</h2>
 
-☁️ AWS and cloud-native architecture
+### Hey there, I'm Sheraz
 
-🔄 DevOps, CI/CD and MLOps
+I'm an **AI Engineer & Full-Stack Developer** focused on building **intelligent systems that scale**. My work sits at the intersection of **Generative AI**, **distributed systems**, and **production-grade cloud infrastructure**.
 
-🐳 Docker and Kubernetes
+I don't just build demos. I build **production systems**, the kind that handle real traffic, real users, and real failures.
 
-🏗️ Terraform and Infrastructure as Code
-
-⚡ Python, FastAPI, React and TypeScript
-
-🗄️ PostgreSQL, Redis and MongoDB
-
-📊 Monitoring, observability and reliability
-
+```python
 class SherazKarim:
-    role = "AI Engineer & Full-Stack Developer"
+    def __init__(self):
+        self.role         = "AI Engineer & Full-Stack Developer"
+        self.focus        = ["LLMs", "RAG", "AI Agents", "MLOps", "Cloud"]
+        self.languages    = ["Python", "TypeScript", "Go", "Bash", "SQL"]
+        self.cloud        = ["AWS", "Docker", "Kubernetes", "Terraform"]
+        self.databases    = ["PostgreSQL", "Redis", "MongoDB", "Pinecone"]
+        self.philosophy   = "Automate. Scale. Secure. Ship."
+        self.current_goal = "Build AI systems that millions can rely on."
 
-    focus = [
-        "Generative AI",
-        "LLMs",
-        "RAG",
-        "AI Agents",
-        "MLOps",
-        "DevOps",
-        "Cloud Engineering",
-    ]
+    def daily_routine(self):
+        return [
+            "☕ Coffee",
+            "🧠 Design intelligent systems",
+            "💻 Ship production code",
+            "📊 Monitor & optimize",
+            "📚 Learn something new",
+            "🔁 Repeat",
+        ]
 
-    languages = [
-        "Python",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "Bash",
-        "SQL",
-    ]
+    def why_google(self):
+        return (
+            "Because the hardest problems deserve the best engineering, "
+            "and I want to be part of that."
+        )
+```
 
-    technologies = [
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "Terraform",
-        "FastAPI",
-        "React",
-        "PostgreSQL",
-        "Redis",
-    ]
-
-    philosophy = "Automate. Build. Deploy. Observe. Improve."
-
-🧠 What I Do
+<h3 align="center">🎯 What I Do Best</h3>
 
 <table>
-<tr>
-<td width="25%" align="center">
-
-🤖 AI Engineering
-
-LLMs
-RAG Pipelines
-AI Agents
-Prompt Engineering
-Model Evaluation
-Vector Search
-
-</td>
-
-<td width="25%" align="center">
-
-☁️ Cloud Engineering
-
-AWS
-Docker
-Kubernetes
-Terraform
-Linux
-Cloud Architecture
-
-</td>
-
-<td width="25%" align="center">
-
-💻 Full-Stack
-
-Python
-FastAPI
-React
-Next.js
-TypeScript
-REST APIs
-
-</td>
-
-<td width="25%" align="center">
-
-🔄 DevOps / MLOps
-
-CI/CD
-GitHub Actions
-Infrastructure as Code
-Monitoring
-Deployment Automation
-Observability
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <b>🧠 AI Engineering</b><br/><br/>
+      LLMs, RAG pipelines, AI agents, vector search, prompt engineering, model evaluation
+    </td>
+    <td align="center" width="25%">
+      <b>☁️ Cloud Architecture</b><br/><br/>
+      AWS, Kubernetes, Docker, Terraform, distributed systems, high availability
+    </td>
+    <td align="center" width="25%">
+      <b>💻 Full-Stack Dev</b><br/><br/>
+      FastAPI, React, Next.js, Node.js, REST APIs, microservices, real-time systems
+    </td>
+    <td align="center" width="25%">
+      <b>🔄 DevOps & MLOps</b><br/><br/>
+      CI/CD, monitoring, observability, model deployment, infrastructure as code
+    </td>
+  </tr>
 </table>
 
-🛠️ Tech Stack
+---
 
-🤖 AI / ML / Generative AI
+<h2 align="center" id="tech-arsenal">🛠️ TECH ARSENAL</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+### 🤖 AI / ML / Generative AI
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8" alt="AI icons" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-1C1C1C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-
-</div>
-
-☁️ Cloud / DevOps / Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,nginx,git&theme=dark" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Weaviate-FF6B6B?style=for-the-badge" alt="Weaviate" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+<img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge" alt="CrewAI" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### ☁️ Cloud & DevOps
 
-</div>
-
-💻 Full-Stack Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,typescript,javascript,postgres,redis,mongodb,html,css,tailwind&theme=dark" />
-
-</div>
-
-🔄 CI/CD & Observability
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,prometheus,grafana&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,nginx,git&theme=dark&perline=8" alt="Cloud icons" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda" />
+<img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker" />
+<img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS" />
+<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS" />
+<img src="https://img.shields.io/badge/AWS_CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFront" />
+
+<br/><br/>
+
+### 💻 Full-Stack Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,typescript,javascript,postgres,redis,mongodb,html,css,tailwind&theme=dark&perline=12" alt="Full-stack icons" />
+
+<br/><br/>
+
+### 🔄 CI/CD & Observability
+
+<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,prometheus,grafana&theme=dark&perline=8" alt="CI/CD icons" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK" />
+
+<br/><br/>
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,linux,ubuntu,vim&theme=dark&perline=8" alt="Tools icons" />
 
 </div>
 
-🚀 Featured Projects
+---
 
-Replace the repository URLs below with the exact repositories you want recruiters to open.
+<h2 align="center" id="featured-projects">🚀 FEATURED PROJECTS</h2>
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-🧠 AI Exam Auto-Grading System
-
-AI-powered examination grading platform designed to process student answers using OCR, NLP/LLM evaluation and automated scoring.
-
-Key areas
-
-OCR-based answer extraction
-
-Answer normalization
-
-Model-answer comparison
-
-Rubric-based scoring
-
-Automated feedback
-
-Audit logging
-
-FastAPI backend
-
-Stack
-
-Python FastAPI OCR LLMs PostgreSQL Docker
-
-</td>
-
-<td width="50%" valign="top">
-
-🎙️ AI Voice Assistant
-
-Real-time voice AI architecture combining speech recognition, LLM reasoning and text-to-speech.
-
-Key areas
-
-Speech-to-text
-
-LLM reasoning
-
-Text-to-speech
-
-Real-time communication
-
-Context management
-
-API integration
-
-Stack
-
-Python LiveKit WebSockets LLMs Docker AWS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-☁️ MLOps / Cloud Infrastructure
-
-Production-oriented infrastructure for deploying and operating machine-learning workloads.
-
-Key areas
-
-Dockerized services
-
-CI/CD automation
-
-Infrastructure as Code
-
-Cloud deployment
-
-Monitoring
-
-Model deployment
-
-Stack
-
-AWS Docker Kubernetes Terraform GitHub Actions
-
-</td>
-
-<td width="50%" valign="top">
-
-🤖 RAG / Knowledge Systems
-
-Retrieval-augmented AI systems for searching documents and generating contextual responses.
-
-Key areas
-
-Document ingestion
-
-Embeddings
-
-Vector search
-
-Retrieval pipelines
-
-Context-aware generation
-
-Evaluation
-
-Stack
-
-Python FastAPI LLMs RAG Vector DB Docker
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 RAG Knowledge Engine</h3>
+      <p>Production-grade RAG pipeline with hybrid search, reranking, evaluation, and observability.</p>
+      <b>🎯 Highlights</b>
+      <ul>
+        <li>Hybrid search (BM25 + dense vectors)</li>
+        <li>Cross-encoder reranking</li>
+        <li>RAGAS evaluation pipeline</li>
+        <li>Streaming responses</li>
+        <li>Full observability stack</li>
+      </ul>
+      <b>🛠️ Stack:</b> Python · FastAPI · LangChain · Pinecone · Redis · Docker · AWS
+      <br/><br/>
+      <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat-square&logo=vercel&logoColor=black" alt="Demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Agent Orchestrator</h3>
+      <p>Multi-agent system with tool use, persistent memory, and autonomous task execution.</p>
+      <b>🎯 Highlights</b>
+      <ul>
+        <li>Multi-agent collaboration</li>
+        <li>Tool calling & function execution</li>
+        <li>Long-term memory (vector + graph)</li>
+        <li>Human-in-the-loop</li>
+        <li>Cost & latency tracking</li>
+      </ul>
+      <b>🛠️ Stack:</b> Python · OpenAI · CrewAI · Docker · AWS · PostgreSQL
+      <br/><br/>
+      <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat-square&logo=vercel&logoColor=black" alt="Demo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Cloud-Native MLOps Platform</h3>
+      <p>End-to-end MLOps: training → registry → deployment → monitoring. GitOps-driven and reproducible.</p>
+      <b>🎯 Highlights</b>
+      <ul>
+        <li>Automated training pipelines</li>
+        <li>Model registry & versioning</li>
+        <li>Canary deployments</li>
+        <li>Drift detection</li>
+        <li>Full observability</li>
+      </ul>
+      <b>🛠️ Stack:</b> Kubernetes · MLflow · Terraform · AWS · Grafana · ArgoCD
+      <br/><br/>
+      <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ Voice AI Assistant</h3>
+      <p>Real-time voice AI with STT, LLM reasoning, and streaming TTS.</p>
+      <b>🎯 Highlights</b>
+      <ul>
+        <li>Streaming STT (Whisper)</li>
+        <li>LLM reasoning with context</li>
+        <li>Streaming TTS</li>
+        <li>Barge-in support</li>
+        <li>Multi-language</li>
+      </ul>
+      <b>🛠️ Stack:</b> Python · Whisper · WebSockets · React · Docker · AWS
+      <br/><br/>
+      <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Document Intelligence Pipeline</h3>
+      <p>Document processing with OCR, layout analysis, and structured extraction for downstream AI workflows.</p>
+      <b>🎯 Highlights</b>
+      <ul>
+        <li>Multi-format OCR</li>
+        <li>Layout-aware parsing</li>
+        <li>Structured extraction</li>
+        <li>Confidence scoring</li>
+        <li>Batch processing</li>
+      </ul>
+      <b>🛠️ Stack:</b> Python · Tesseract · LayoutLM · FastAPI · Redis
+      <br/><br/>
+      <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔄 CI/CD Automation Framework</h3>
+      <p>Reusable CI/CD framework with security scanning, multi-env deploys, and rollback automation.</p>
+      <b>🎯 Highlights</b>
+      <ul>
+        <li>Multi-cloud deploys</li>
+        <li>Security scanning (SAST/DAST)</li>
+        <li>Blue-green deploys</li>
+        <li>Auto-rollback</li>
+        <li>Slack notifications</li>
+      </ul>
+      <b>🛠️ Stack:</b> GitHub Actions · Docker · Terraform · AWS · Kubernetes
+      <br/><br/>
+      <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+    </td>
+  </tr>
 </table>
 
-📊 GitHub Analytics
+---
+
+<h2 align="center" id="github-analytics">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazkarim1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherazkarim1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sherazkarim1&theme=tokyonight" width="95%" alt="Profile Details"/>
-
-</div>
-
-🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sherazkarim1&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-📈 Engineering Focus
-
-AI / ML
-├── Generative AI
-├── LLM Applications
-├── RAG Systems
-├── AI Agents
-├── Model Evaluation
-└── AI Automation
-
-FULL-STACK
-├── Python
-├── FastAPI
-├── React
-├── Next.js
-├── TypeScript
-└── REST APIs
-
-CLOUD
-├── AWS
-├── Docker
-├── Kubernetes
-├── Terraform
-├── Linux
-└── Cloud Architecture
-
-DEVOPS / MLOPS
-├── CI/CD
-├── GitHub Actions
-├── Infrastructure as Code
-├── Monitoring
-├── Observability
-└── Deployment Automation
-
-💡 Engineering Philosophy
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-⚡ AUTOMATE
-
-Reduce repetitive work through automation, reusable infrastructure and reliable pipelines.
-
-</td>
-
-<td width="25%" align="center">
-
-📈 SCALE
-
-Design systems that can evolve as traffic, data and engineering requirements grow.
-
-</td>
-
-<td width="25%" align="center">
-
-🔒 SECURE
-
-Use least privilege, secure secrets, controlled access and observable infrastructure.
-
-</td>
-
-<td width="25%" align="center">
-
-🚀 SHIP
-
-Build incrementally, deploy safely, monitor continuously and improve from real feedback.
-
-</td>
-
-</tr>
-</table>
-
-🎯 Currently Learning & Building
-
-🤖 Generative AI applications
-
-🧠 LLM-powered systems
-
-🔎 RAG and vector search
-
-🧩 AI agent workflows
-
-☁️ AWS cloud architecture
-
-🐳 Docker and Kubernetes
-
-🏗️ Terraform Infrastructure as Code
-
-🔄 CI/CD and MLOps
-
-📊 Monitoring and observability
-
-⚡ Production-grade FastAPI systems
-
-🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Sherazkarim1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://sherazkarim1.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF&border_radius=15" alt="GitHub stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazkarim1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=12&border_radius=15" alt="Top languages" />
 
 <br/>
 
+<img src="https://streak-stats.demolab.com/?user=Sherazkarim1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7B2FFF&fire=FF0080&currStreakLabel=00F7FF&border_radius=15" alt="Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FF0080&area=true&radius=15" width="100%" alt="Activity graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sherazkarim1&theme=tokyonight" width="100%" alt="Profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sherazkarim1&theme=tokyonight" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sherazkarim1&theme=tokyonight" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sherazkarim1&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sherazkarim1&theme=tokyonight&utcOffset=5" alt="Productive time" />
+
+</div>
+
+---
+
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
+
 <div align="center">
 
-💬 Let's Build Something Intelligent
+<img src="https://github-profile-trophy.vercel.app/?username=Sherazkarim1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&row=2" alt="Trophies" />
 
-AI • Cloud • Full-Stack • DevOps • MLOps
+</div>
 
-<br/>
+<!-- Replace these numbers with your REAL ones -->
+<table>
+  <tr>
+    <td align="center" width="20%"><b>🚀 XX+</b><br/>Repositories</td>
+    <td align="center" width="20%"><b>🧠 XX+</b><br/>AI Projects</td>
+    <td align="center" width="20%"><b>☁️ XX+</b><br/>Cloud Deployments</td>
+    <td align="center" width="20%"><b>📚 XXXX+</b><br/>Commits</td>
+    <td align="center" width="20%"><b>🎯 100%</b><br/>Passion</td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7B2FFF,100:00F7FF&height=120&section=footer" width="100%" />
+---
+
+<h2 align="center">💡 ENGINEERING PHILOSOPHY</h2>
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h3>⚡ AUTOMATE</h3>
+      <i>"If you do it twice, automate it."</i><br/><br/>
+      Eliminate toil. Build systems that <b>run themselves</b>.<br/><br/>
+      <code>GitHub Actions</code> <code>Terraform</code> <code>Cron</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>📈 SCALE</h3>
+      <i>"Design for 10x, not 1x."</i><br/><br/>
+      <b>Distributed, resilient, observable</b> by default.<br/><br/>
+      <code>Kubernetes</code> <code>Caching</code> <code>Sharding</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🔒 SECURE</h3>
+      <i>"Security is a foundation, not a feature."</i><br/><br/>
+      Zero-trust mindset. <b>Least privilege</b>. Defense in depth.<br/><br/>
+      <code>IAM</code> <code>Secrets</code> <code>Encryption</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🚀 SHIP</h3>
+      <i>"Done is better than perfect."</i><br/><br/>
+      Prototype → Production. <b>Velocity with quality.</b><br/><br/>
+      <code>CI/CD</code> <code>Feature Flags</code> <code>Monitoring</code>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+**"Build intelligent systems. Automate everything. Ship continuously."**
+
+</div>
+
+---
+
+<h2 align="center">🚧 CURRENTLY BUILDING</h2>
+
+```yaml
+CURRENT FOCUS AREAS:
+
+  AI & ML:
+    - Generative AI applications
+    - LLM-powered systems
+    - RAG pipelines with hybrid search
+    - Multi-agent orchestration
+    - Voice AI & real-time inference
+    - Model evaluation & observability
+
+  ENGINEERING:
+    - Full-stack apps (FastAPI + React)
+    - Microservices architecture
+    - Event-driven systems
+    - Real-time data pipelines
+    - API design & performance tuning
+
+  CLOUD & INFRA:
+    - AWS architecture (EC2, S3, Lambda, SageMaker)
+    - Kubernetes orchestration
+    - Docker containerization
+    - Terraform IaC
+    - Cost optimization
+
+  DEVOPS & MLOPS:
+    - CI/CD pipelines
+    - Model deployment automation
+    - Monitoring & observability
+    - Security scanning
+
+  GOAL: "Turn complex ideas into reliable production systems
+         that scale to millions of users."
+```
+
+---
+
+<h2 align="center">🎯 WHY GOOGLE?</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Mission Alignment</h3>
+      <p>Google's mission to organize the world's information and make it universally accessible and useful resonates with my work in AI-powered knowledge systems, RAG pipelines, and intelligent document processing.</p>
+      <p>I build systems that make information easier to access, which is exactly what Google has done for decades.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Technical Fit</h3>
+      <ul>
+        <li><b>AI/ML</b>: LLMs, RAG, agents, evaluation</li>
+        <li><b>Distributed systems</b>: Kubernetes, microservices, event-driven</li>
+        <li><b>Cloud-native</b>: Terraform, IaC, multi-region</li>
+        <li><b>Production mindset</b>: observability, SLOs, incident response</li>
+        <li><b>Full-stack</b>: from model to API to UI</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I Bring</h3>
+      <ul>
+        <li><b>End-to-end ownership</b>: design → deploy → observe</li>
+        <li><b>Systems thinking</b>: from model to monitor</li>
+        <li><b>Velocity with quality</b>: ship fast, ship right</li>
+        <li><b>Continuous learning</b>: always leveling up</li>
+        <li><b>Collaboration</b>: strong communicator, team player</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Ideal Roles</h3>
+      <ul>
+        <li>AI/ML Engineer</li>
+        <li>Software Engineer (AI/ML)</li>
+        <li>Cloud Solutions Architect</li>
+        <li>MLOps Engineer</li>
+        <li>Full-Stack AI Engineer</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center" id="lets-connect">🤝 LET'S CONNECT</h2>
+
+<div align="center">
+
+<a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
