@@ -17,23 +17,14 @@
 <br/>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF_OPEN_TO-AI_%7C_Cloud_%7C_MLOps_%7C_Full--Stack-00C853?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
-<img src="https://img.shields.io/badge/%F0%9F%8C%8D_LOCATION-Remote_%7C_Global-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Location" />
-<img src="https://img.shields.io/badge/%E2%9A%A1_RESPONSE-Within_24h-FF0080?style=for-the-badge&labelColor=0D1117" alt="Response time" />
+<img src="https://img.shields.io/badge/OPEN_TO-AI_%7C_Cloud_%7C_MLOps_%7C_Full--Stack-00C853?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
+
+<img src="https://img.shields.io/badge/LOCATION-Remote_%7C_Global-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Location" />
+
+<img src="https://img.shields.io/badge/RESPONSE-Within_24h-FF0080?style=for-the-badge&labelColor=0D1117" alt="Response time" />
+
 
 <br/><br/>
-
-<!-- SOCIAL PROOF -->
-<a href="https://github.com/Sherazkarim1?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sherazkarim1?label=FOLLOWERS&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117&logoColor=white" alt="Followers" />
-</a>
-
-<a href="https://github.com/Sherazkarim1?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Sherazkarim1?label=STARS&style=for-the-badge&logo=github&color=7B2FFF&labelColor=0D1117&logoColor=white" alt="Stars" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile views" />
-
 
 <br/><br/>
 
