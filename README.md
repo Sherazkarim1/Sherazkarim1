@@ -9,9 +9,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SHERAZ%20KARIM&fontSize=75&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20DevOps%20%2F%20MLOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Banner" />
 
 <!-- TYPING ANIMATION -->
-
 <a href="https://github.com/Sherazkarim1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=Building+AI-Powered+Systems+at+Scale;Engineering+Cloud-Native+Infrastructure;LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps+%7C+DevOps;Turning+Complex+Ideas+Into+Production-Ready+Systems;Automate.+Scale.+Secure.+Ship.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%7C+Full-Stack+Developer;LLMs+%7C+RAG+%7C+AI+Agents;DevOps+%7C+MLOps+%7C+AWS;Building+and+Learning+Every+Day" alt="Typing SVG" />
 </a>
 
 
