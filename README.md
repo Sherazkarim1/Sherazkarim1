@@ -188,7 +188,7 @@ class SherazKarim:
       <a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat-square&logo=vercel&logoColor=black" alt="Demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Agent Orchestrator</h3>
+      <h3 align="center"> AI Agent Orchestrator</h3>
       <p>Multi-agent system with tool use, persistent memory, and autonomous task execution.</p>
       <b> Highlights</b>
       <ul>
@@ -238,7 +238,7 @@ class SherazKarim:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📄 Document Intelligence Pipeline</h3>
+      <h3 align="center"> Document Intelligence Pipeline</h3>
       <p>Document processing with OCR, layout analysis, and structured extraction for downstream AI workflows.</p>
       <b> Highlights</b>
       <ul>
