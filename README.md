@@ -47,7 +47,7 @@
 <br/>
 
 <!-- SNAKE (requires the snake GitHub Action, see notes) -->
-<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/snake.svg" width="100%" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/snake-dark.svg" width="100%" alt="Contribution snake dark" />
 
 <br/>
 
