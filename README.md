@@ -385,7 +385,7 @@ CURRENT FOCUS AREAS:
 ---
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 What I Bring</h3>
+      <h3> What I Bring</h3>
       <ul>
         <li><b>End-to-end ownership</b>: design → deploy → observe</li>
         <li><b>Systems thinking</b>: from model to monitor</li>
@@ -395,7 +395,7 @@ CURRENT FOCUS AREAS:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Ideal Roles</h3>
+      <h3> Ideal Roles</h3>
       <ul>
         <li>AI/ML Engineer</li>
         <li>Software Engineer (AI/ML)</li>
