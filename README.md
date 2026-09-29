@@ -36,18 +36,13 @@
 <br/><br/>
 
 <!-- QUICK LINKS -->
-<a href="#about-me"><img src="https://img.shields.io/badge/📖_About-0D1117?style=for-the-badge" alt="About" /></a>
-<a href="#tech-arsenal"><img src="https://img.shields.io/badge/🛠️_Stack-0D1117?style=for-the-badge" alt="Stack" /></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-0D1117?style=for-the-badge" alt="Projects" /></a>
-<a href="#github-analytics"><img src="https://img.shields.io/badge/📊_Stats-0D1117?style=for-the-badge" alt="Stats" /></a>
-<a href="#lets-connect"><img src="https://img.shields.io/badge/🤝_Connect-0D1117?style=for-the-badge" alt="Connect" /></a>
+<a href="#about-me"><img src="https://img.shields.io/badge/_About-0D1117?style=for-the-badge" alt="About" /></a>
+<a href="#tech-arsenal"><img src="https://img.shields.io/badge/_Stack-0D1117?style=for-the-badge" alt="Stack" /></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/_Projects-0D1117?style=for-the-badge" alt="Projects" /></a>
+<a href="#github-analytics"><img src="https://img.shields.io/badge/_Stats-0D1117?style=for-the-badge" alt="Stats" /></a>
+<a href="#lets-connect"><img src="https://img.shields.io/badge/_Connect-0D1117?style=for-the-badge" alt="Connect" /></a>
 
 </div>
-
-<br/>
-
-<!-- SNAKE (requires the snake GitHub Action, see notes) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FF0080&area=true" width="100%" alt="Activity graph" />
 
 <br/>
 
@@ -74,12 +69,12 @@ class SherazKarim:
 
     def daily_routine(self):
         return [
-            "☕ Coffee",
-            "🧠 Design intelligent systems",
-            "💻 Ship production code",
-            "📊 Monitor & optimize",
-            "📚 Learn something new",
-            "🔁 Repeat",
+            "Coffee",
+            "Design intelligent systems",
+            "Ship production code",
+            "Monitor & optimize",
+            "Learn something new",
+            "Repeat",
         ]
 
     def why_google(self):
@@ -89,24 +84,24 @@ class SherazKarim:
         )
 ```
 
-<h3 align="center">🎯 What I Do Best</h3>
+<h3 align="center"> What I Do Best</h3>
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <b>🧠 AI Engineering</b><br/><br/>
+      <b> AI Engineering</b><br/><br/>
       LLMs, RAG pipelines, AI agents, vector search, prompt engineering, model evaluation
     </td>
     <td align="center" width="25%">
-      <b>☁️ Cloud Architecture</b><br/><br/>
+      <b> Cloud Architecture</b><br/><br/>
       AWS, Kubernetes, Docker, Terraform, distributed systems, high availability
     </td>
     <td align="center" width="25%">
-      <b>💻 Full-Stack Dev</b><br/><br/>
+      <b> Full-Stack Dev</b><br/><br/>
       FastAPI, React, Next.js, Node.js, REST APIs, microservices, real-time systems
     </td>
     <td align="center" width="25%">
-      <b>🔄 DevOps & MLOps</b><br/><br/>
+      <b> DevOps & MLOps</b><br/><br/>
       CI/CD, monitoring, observability, model deployment, infrastructure as code
     </td>
   </tr>
@@ -114,11 +109,11 @@ class SherazKarim:
 
 ---
 
-<h2 align="center" id="tech-arsenal">🛠️ TECH ARSENAL</h2>
+<h2 align="center" id="tech-arsenal"> TECH ARSENAL</h2>
 
 <div align="center">
 
-### 🤖 AI / ML / Generative AI
+###  AI / ML / Generative AI
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8" alt="AI icons" />
 
@@ -137,7 +132,7 @@ class SherazKarim:
 
 <br/><br/>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,nginx,git&theme=dark&perline=8" alt="Cloud icons" />
 
@@ -153,13 +148,13 @@ class SherazKarim:
 
 <br/><br/>
 
-### 💻 Full-Stack Development
+###  Full-Stack Development
 
 <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,typescript,javascript,postgres,redis,mongodb,html,css,tailwind&theme=dark&perline=12" alt="Full-stack icons" />
 
 <br/><br/>
 
-### 🔄 CI/CD & Observability
+###  CI/CD & Observability
 
 <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,prometheus,grafana&theme=dark&perline=8" alt="CI/CD icons" />
 
@@ -203,7 +198,7 @@ class SherazKarim:
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Agent Orchestrator</h3>
       <p>Multi-agent system with tool use, persistent memory, and autonomous task execution.</p>
-      <b>🎯 Highlights</b>
+      <b> Highlights</b>
       <ul>
         <li>Multi-agent collaboration</li>
         <li>Tool calling & function execution</li>
@@ -219,7 +214,7 @@ class SherazKarim:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Cloud-Native MLOps Platform</h3>
+      <h3 align="center"> Cloud-Native MLOps Platform</h3>
       <p>End-to-end MLOps: training → registry → deployment → monitoring. GitOps-driven and reproducible.</p>
       <b> Highlights</b>
       <ul>
@@ -244,7 +239,7 @@ class SherazKarim:
         <li>Barge-in support</li>
         <li>Multi-language</li>
       </ul>
-      <b>🛠️ Stack:</b> Python · Whisper · WebSockets · React · Docker · AWS
+      <b> Stack:</b> Python · Whisper · WebSockets · React · Docker · AWS
       <br/><br/>
       <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
     </td>
@@ -261,7 +256,7 @@ class SherazKarim:
         <li>Confidence scoring</li>
         <li>Batch processing</li>
       </ul>
-      <b>🛠️ Stack:</b> Python · Tesseract · LayoutLM · FastAPI · Redis
+      <b> Stack:</b> Python · Tesseract · LayoutLM · FastAPI · Redis
       <br/><br/>
       <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
     </td>
@@ -276,7 +271,7 @@ class SherazKarim:
         <li>Auto-rollback</li>
         <li>Slack notifications</li>
       </ul>
-      <b>🛠️ Stack:</b> GitHub Actions · Docker · Terraform · AWS · Kubernetes
+      <b> Stack:</b> GitHub Actions · Docker · Terraform · AWS · Kubernetes
       <br/><br/>
       <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
     </td>
@@ -318,19 +313,19 @@ class SherazKarim:
       <code>GitHub Actions</code> <code>Terraform</code> <code>Cron</code>
     </td>
     <td align="center" width="25%" valign="top">
-      <h3>📈 SCALE</h3>
+      <h3> SCALE</h3>
       <i>"Design for 10x, not 1x."</i><br/><br/>
       <b>Distributed, resilient, observable</b> by default.<br/><br/>
       <code>Kubernetes</code> <code>Caching</code> <code>Sharding</code>
     </td>
     <td align="center" width="25%" valign="top">
-      <h3>🔒 SECURE</h3>
+      <h3> SECURE</h3>
       <i>"Security is a foundation, not a feature."</i><br/><br/>
       Zero-trust mindset. <b>Least privilege</b>. Defense in depth.<br/><br/>
       <code>IAM</code> <code>Secrets</code> <code>Encryption</code>
     </td>
     <td align="center" width="25%" valign="top">
-      <h3>🚀 SHIP</h3>
+      <h3> SHIP</h3>
       <i>"Done is better than perfect."</i><br/><br/>
       Prototype → Production. <b>Velocity with quality.</b><br/><br/>
       <code>CI/CD</code> <code>Feature Flags</code> <code>Monitoring</code>
@@ -346,7 +341,7 @@ class SherazKarim:
 
 ---
 
-<h2 align="center">🚧 CURRENTLY BUILDING</h2>
+<h2 align="center"> CURRENTLY BUILDING</h2>
 
 ```yaml
 CURRENT FOCUS AREAS:
@@ -410,7 +405,7 @@ CURRENT FOCUS AREAS:
 
 ---
 
-<h2 align="center" id="lets-connect">🤝 LET'S CONNECT</h2>
+<h2 align="center" id="lets-connect"> LET'S CONNECT</h2>
 
 <div align="center">
 
