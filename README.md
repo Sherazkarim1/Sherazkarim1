@@ -42,9 +42,10 @@
 
 ### Hey there, I'm Sheraz
 
-I'm an **AI/DevOps Engineer and Full-Stack Developer** who enjoys building things that solve real problems.
+I'm an **AI Engineer** I build AI systems with **LLMs, RAG, automation, and MLOps**.
 
-My work spans **AI/LLMs, cloud infrastructure, DevOps, MLOps, and full-stack development**. I focus on building systems that are practical, maintainable, and ready to move beyond the prototype stage.
+I also work with **Python, AWS, DevOps, and full-stack development**, which helps me take AI projects from an initial idea to a deployed and maintainable application.
+
 
 
 ```python
