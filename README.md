@@ -209,7 +209,7 @@ goal:
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <!--
   NOTE: These two images are generated live by a shared, community-run
@@ -312,7 +312,7 @@ Move ideas from prototype → production.
 
 <div align="center">
 
-### 💡 "Build intelligent systems. Automate everything. Ship continuously."
+### "Build intelligent systems. Automate everything. Ship continuously."
 
 <br/>
 
