@@ -282,7 +282,7 @@ class SherazKarim:
 
 ---
 
-<h2 align="center" id="github-analytics">📊 GITHUB ANALYTICS</h2>
+<h2 align="center" id="github-analytics"> GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -292,10 +292,6 @@ class SherazKarim:
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Sherazkarim1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7B2FFF&fire=FF0080&currStreakLabel=00F7FF&border_radius=15" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FF0080&area=true&radius=15" width="100%" alt="Activity graph" />
 
 <br/><br/>
 
@@ -310,28 +306,7 @@ class SherazKarim:
 
 ---
 
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sherazkarim1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&row=2" alt="Trophies" />
-
-</div>
-
-<!-- Replace these numbers with your REAL ones -->
-<table>
-  <tr>
-    <td align="center" width="20%"><b>🚀 XX+</b><br/>Repositories</td>
-    <td align="center" width="20%"><b>🧠 XX+</b><br/>AI Projects</td>
-    <td align="center" width="20%"><b>☁️ XX+</b><br/>Cloud Deployments</td>
-    <td align="center" width="20%"><b>📚 XXXX+</b><br/>Commits</td>
-    <td align="center" width="20%"><b>🎯 100%</b><br/>Passion</td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">💡 ENGINEERING PHILOSOPHY</h2>
+<h2 align="center"> ENGINEERING </h2>
 
 <table>
   <tr>
@@ -408,27 +383,6 @@ CURRENT FOCUS AREAS:
 ```
 
 ---
-
-<h2 align="center">🎯 WHY GOOGLE?</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 Mission Alignment</h3>
-      <p>Google's mission to organize the world's information and make it universally accessible and useful resonates with my work in AI-powered knowledge systems, RAG pipelines, and intelligent document processing.</p>
-      <p>I build systems that make information easier to access, which is exactly what Google has done for decades.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Technical Fit</h3>
-      <ul>
-        <li><b>AI/ML</b>: LLMs, RAG, agents, evaluation</li>
-        <li><b>Distributed systems</b>: Kubernetes, microservices, event-driven</li>
-        <li><b>Cloud-native</b>: Terraform, IaC, multi-region</li>
-        <li><b>Production mindset</b>: observability, SLOs, incident response</li>
-        <li><b>Full-stack</b>: from model to API to UI</li>
-      </ul>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 What I Bring</h3>
