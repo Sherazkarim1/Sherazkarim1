@@ -182,7 +182,7 @@ class SherazKarim:
         <li>Streaming responses</li>
         <li>Full observability stack</li>
       </ul>
-      <b>🛠️ Stack:</b> Python · FastAPI · LangChain · Pinecone · Redis · Docker · AWS
+      <b> Stack:</b> Python · FastAPI · LangChain · Pinecone · Redis · Docker · AWS
       <br/><br/>
       <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat-square&logo=vercel&logoColor=black" alt="Demo" /></a>
@@ -198,7 +198,7 @@ class SherazKarim:
         <li>Human-in-the-loop</li>
         <li>Cost & latency tracking</li>
       </ul>
-      <b>🛠️ Stack:</b> Python · OpenAI · CrewAI · Docker · AWS · PostgreSQL
+      <b> Stack:</b> Python · OpenAI · CrewAI · Docker · AWS · PostgreSQL
       <br/><br/>
       <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat-square&logo=vercel&logoColor=black" alt="Demo" /></a>
@@ -216,12 +216,12 @@ class SherazKarim:
         <li>Drift detection</li>
         <li>Full observability</li>
       </ul>
-      <b>🛠️ Stack:</b> Kubernetes · MLflow · Terraform · AWS · Grafana · ArgoCD
+      <b> Stack:</b> Kubernetes · MLflow · Terraform · AWS · Grafana · ArgoCD
       <br/><br/>
       <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ Voice AI Assistant</h3>
+      <h3 align="center"> Voice AI Assistant</h3>
       <p>Real-time voice AI with  STT, LLM reasoning, and streaming TTS.</p>
       <b>Highlights</b>
       <ul>
@@ -299,7 +299,7 @@ class SherazKarim:
 <table>
   <tr>
     <td align="center" width="25%" valign="top">
-      <h3>⚡ AUTOMATE</h3>
+      <h3> AUTOMATE</h3>
       <i>"If you do it twice, automate it."</i><br/><br/>
       Eliminate toil. Build systems that <b>run themselves</b>.<br/><br/>
       <code>GitHub Actions</code> <code>Terraform</code> <code>Cron</code>
