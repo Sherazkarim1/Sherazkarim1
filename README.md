@@ -234,18 +234,6 @@ goal:
 
 ---
 
-
-<div align="center">
-
-## 📈 GITHUB ACTIVITY
-
-<!-- Also a shared community server (github-readme-activity-graph) — same rate-limit caveat -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
-
-</div>
-
----
-
 <div align="center">
 
 ##  ENGINEERING PHILOSOPHY
