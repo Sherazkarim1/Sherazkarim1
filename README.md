@@ -47,7 +47,7 @@
 <br/>
 
 <!-- SNAKE (requires the snake GitHub Action, see notes) -->
-<img src="https://raw.githubusercontent.com/Sherazkarim1/Sherazkarim1/output/snake-dark.svg" width="100%" alt="Contribution snake dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherazkarim1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FF0080&area=true" width="100%" alt="Activity graph" />
 
 <br/>
 
