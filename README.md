@@ -26,12 +26,15 @@
 
 <!-- SOCIAL PROOF -->
 <a href="https://github.com/Sherazkarim1?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Sherazkarim1?label=FOLLOWERS&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117&logoColor=white" alt="Followers" />
 </a>
+
 <a href="https://github.com/Sherazkarim1?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Sherazkarim1?label=Stars&style=for-the-badge&logo=github&color=7B2FFF&labelColor=0D1117&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/Sherazkarim1?label=STARS&style=for-the-badge&logo=github&color=7B2FFF&labelColor=0D1117&logoColor=white" alt="Stars" />
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile views" />
+
 
 <br/><br/>
 
