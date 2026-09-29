@@ -1,321 +1,66 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    SHEraz KARIM — AI & CLOUD ENGINEER                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# SHERAZ KARIM
+<!-- Animated Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF0080&height=200&section=header&text=SHERAZ%20KARIM&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20DevOps%20%2F%20MLOps&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-### `AI Engineer` • `Full-Stack Engineer` • `DevOps / MLOps`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Systems+%F0%9F%A4%96;Engineering+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps;Full-Stack+%7C+DevOps+%7C+Cloud+Engineering;Turning+Ideas+Into+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
+<!-- Dynamic Typing SVG -->
 <a href="https://github.com/Sherazkarim1">
-<img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%A4%96+Building+AI-Powered+Systems+at+Scale;%E2%98%81%EF%B8%8F+Engineering+Cloud-Native+Infrastructure;%F0%9F%94%97+LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps;%F0%9F%9A%80+Turning+Complex+Ideas+Into+Production+Systems" alt="Typing SVG" />
+</a>
+
+<!-- Social Proof Badges -->
+<p>
+<a href="https://github.com/Sherazkarim1?tab=followers">
+<img src="https://img.shields.io/github/followers/Sherazkarim1?label=Followers&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117" />
 </a>
 <a href="https://github.com/Sherazkarim1?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-50%2B-00F7FF?style=for-the-badge&logo=github" alt="50+ projects" />
+<img src="https://img.shields.io/badge/Repositories-50%2B-7B2FFF?style=for-the-badge&logo=github&labelColor=0D1117" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=Sherazkarim1">
+<img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=FF0080&label=PROFILE+VIEWS" />
 </a>
 <a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
 </a>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sherazkarim1&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views" />
+<!-- Open to Work Banner -->
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_OPEN_TO-Google_%7C_AI_%7C_Cloud_%7C_MLOps-00C853?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🧠 ENGINEERING × AI × CLOUD
-
-</div>
-
-> **I build intelligent software systems that don't just work — they scale, automate, observe, and continuously improve.**
-
-I'm **Sheraz Karim**, an **AI Engineer & Full-Stack Developer** focused on building production-ready applications across **Generative AI, LLMs, RAG, AI Agents, Cloud, DevOps, MLOps and distributed systems**.
-
-My work sits at the intersection of:
-
-```text
-        ARTIFICIAL INTELLIGENCE
-                    │
-                    ▼
-        LLMs ── RAG ── AI AGENTS
-                    │
-                    ▼
-        FULL-STACK APPLICATIONS
-                    │
-                    ▼
-        DOCKER ── KUBERNETES
-                    │
-                    ▼
-        AWS ── CLOUD INFRASTRUCTURE
-                    │
-                    ▼
-        CI/CD ── MLOps ── OBSERVABILITY
-```
-
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🛠️ WHAT I BUILD
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ABOUT ME
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 Generative AI
-
-* LLM Applications
-* RAG Pipelines
-* AI Agents
-* AI Automation
-* Voice AI
-* Prompt Engineering
-* AI Evaluation
-* Document Intelligence
-* OCR & Intelligent Processing
-
-</td>
-
-<td width="50%">
-
-### ☁️ Cloud & DevOps
-
-* AWS Architecture
-* Docker & Kubernetes
-* CI/CD Automation
-* Infrastructure as Code
-* Terraform
-* Linux
-* Monitoring & Observability
-* MLOps
-* Production Deployments
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💻 Full-Stack Engineering
-
-* Python
-* FastAPI
-* React
-* Next.js
-* Node.js
-* REST APIs
-* PostgreSQL
-* Redis
-* Microservices
-
-</td>
-
-<td>
-
-### 🧬 AI Engineering
-
-* Python
-* Machine Learning
-* LLM Integration
-* RAG
-* Vector Databases
-* Embeddings
-* AI Workflows
-* Model Evaluation
-* Intelligent Automation
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ⚙️ TECHNOLOGY STACK
-
-### ☁️ Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,linux" alt="Cloud & infrastructure stack" />
-
-### 🧠 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI & ML stack" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/LLMs-Generative%20AI-8A2BE2?style=for-the-badge" alt="LLMs" />
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6B6B?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/AI%20Agents-Automation-00C853?style=for-the-badge" alt="AI Agents" />
-<img src="https://img.shields.io/badge/Vector%20Databases-RAG-00B8D4?style=for-the-badge" alt="Vector Databases" />
-
-### 👨‍💻 Development
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,typescript,javascript,postgresql,redis,mongodb" alt="Development stack" />
-
-### 🔄 DevOps & CI/CD
-
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,terraform,prometheus,grafana" alt="DevOps & CI/CD stack" />
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" alt="Tools" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚧 CURRENTLY BUILDING
-
-</div>
-
-```yaml
-focus:
-  - Generative AI
-  - LLM Applications
-  - RAG Systems
-  - AI Agents
-  - Voice AI
-  - AI Automation
-
-engineering:
-  - Full-Stack Applications
-  - Microservices
-  - Cloud Architecture
-  - DevOps
-  - MLOps
-  - CI/CD
-
-cloud:
-  - AWS
-  - Docker
-  - Kubernetes
-  - Terraform
-
-goal:
-  "Turn complex ideas into reliable production systems."
-```
-
----
-
-<div align="center">
-
-## GITHUB ANALYTICS
-
-<!--
-  NOTE: These two images are generated live by a shared, community-run
-  Vercel deployment of github-readme-stats. It periodically hits GitHub's
-  API rate limit or goes down under load, which is the most likely reason
-  these looked broken in your preview. They usually recover on their own
-  within minutes to hours. If breakage is frequent, deploy your own free
-  instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  and swap the domain below for your own Vercel URL.
--->
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Same shared-server caveat applies here (streak-stats.demolab.com) -->
-<img src="https://streak-stats.demolab.com?user=Sherazkarim1&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-
-</div>
-
----
-
-<div align="center">
-
-##  ENGINEERING PHILOSOPHY
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 
-
-**Automate**
-
-Reduce repetitive work through intelligent automation.
-
-</td>
-
-<td align="center" width="25%">
-
-### 
-
-**Scale**
-
-Design systems that can grow without becoming fragile.
-
-</td>
-
-<td align="center" width="25%">
-
-### 
-
-**Secure**
-
-Build with reliability, security and maintainability in mind.
-
-</td>
-
-<td align="center" width="25%">
-
-### 
-
-**Ship**
-
-Move ideas from prototype → production.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-##  LET'S CONNECT
-
-<a href="mailto:sherazkarim12@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/sheraz-karim-3b3149244/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://x.com/sherazkarim01">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-</a>
-
-<a href="https://github.com/Sherazkarim1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Build intelligent systems. Automate everything. Ship continuously."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=footer" alt="Footer wave" />
-
-</div>
+<td width="60%" valign="top">
+
+### 👋 Hey, I'm Sheraz
+
+I'm an **AI & Cloud Engineer** obsessed with building **intelligent systems that scale**. My work lives at the intersection of **Generative AI**, **distributed systems**, and **production-grade infrastructure**.
+
+```python
+class SherazKarim:
+    def __init__(self):
+        self.role       = "AI Engineer & Full-Stack Developer"
+        self.focus      = ["LLMs", "RAG", "AI Agents", "MLOps", "Cloud"]
+        self.languages  = ["Python", "TypeScript", "Go", "Bash"]
+        self.cloud      = ["AWS", "Docker", "Kubernetes", "Terraform"]
+        self.philosophy = "Automate. Scale. Secure. Ship."
+    
+    def current_mission(self):
+        return "Build AI systems that millions can rely on."
