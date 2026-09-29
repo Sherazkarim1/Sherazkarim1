@@ -172,7 +172,7 @@ class SherazKarim:
 
 <br/><br/>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,linux,ubuntu,vim&theme=dark&perline=8" alt="Tools icons" />
 
@@ -180,14 +180,14 @@ class SherazKarim:
 
 ---
 
-<h2 align="center" id="featured-projects">🚀 FEATURED PROJECTS</h2>
+<h2 align="center" id="featured-projects"> FEATURED PROJECTS</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 RAG Knowledge Engine</h3>
+      <h3 align="center"> RAG Knowledge Engine</h3>
       <p>Production-grade RAG pipeline with hybrid search, reranking, evaluation, and observability.</p>
-      <b>🎯 Highlights</b>
+      <b> Highlights</b>
       <ul>
         <li>Hybrid search (BM25 + dense vectors)</li>
         <li>Cross-encoder reranking</li>
@@ -221,7 +221,7 @@ class SherazKarim:
     <td width="50%" valign="top">
       <h3 align="center">☁️ Cloud-Native MLOps Platform</h3>
       <p>End-to-end MLOps: training → registry → deployment → monitoring. GitOps-driven and reproducible.</p>
-      <b>🎯 Highlights</b>
+      <b> Highlights</b>
       <ul>
         <li>Automated training pipelines</li>
         <li>Model registry & versioning</li>
@@ -235,8 +235,8 @@ class SherazKarim:
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎙️ Voice AI Assistant</h3>
-      <p>Real-time voice AI with STT, LLM reasoning, and streaming TTS.</p>
-      <b>🎯 Highlights</b>
+      <p>Real-time voice AI with  STT, LLM reasoning, and streaming TTS.</p>
+      <b>Highlights</b>
       <ul>
         <li>Streaming STT (Whisper)</li>
         <li>LLM reasoning with context</li>
@@ -253,7 +253,7 @@ class SherazKarim:
     <td width="50%" valign="top">
       <h3 align="center">📄 Document Intelligence Pipeline</h3>
       <p>Document processing with OCR, layout analysis, and structured extraction for downstream AI workflows.</p>
-      <b>🎯 Highlights</b>
+      <b> Highlights</b>
       <ul>
         <li>Multi-format OCR</li>
         <li>Layout-aware parsing</li>
@@ -266,9 +266,9 @@ class SherazKarim:
       <a href="https://github.com/Sherazkarim1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔄 CI/CD Automation Framework</h3>
+      <h3 align="center"> CI/CD Automation Framework</h3>
       <p>Reusable CI/CD framework with security scanning, multi-env deploys, and rollback automation.</p>
-      <b>🎯 Highlights</b>
+      <b> Highlights</b>
       <ul>
         <li>Multi-cloud deploys</li>
         <li>Security scanning (SAST/DAST)</li>
@@ -289,8 +289,6 @@ class SherazKarim:
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF&border_radius=15" alt="GitHub stats" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazkarim1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=12&border_radius=15" alt="Top languages" />
 
 <br/>
 
@@ -303,7 +301,7 @@ class SherazKarim:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sherazkarim1&theme=tokyonight" alt="Repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sherazkarim1&theme=tokyonight" alt="Most commit language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sherazkarim1&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sherazkarim1&theme=tokyonight&utcOffset=5" alt="Productive time" />
+
 
 </div>
 
