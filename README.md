@@ -40,7 +40,7 @@
 
 <h2 align="center" id="about-me"> ABOUT ME</h2>
 
-### Hey there, I'm Sheraz
+### I'm Sheraz
 
 I'm an **AI Engineer** I build AI systems with **LLMs, RAG, automation, and MLOps**.
 
