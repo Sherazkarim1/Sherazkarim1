@@ -5,12 +5,15 @@
 <div align="center">
 
 <!-- HERO BANNER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SHERAZ%20KARIM&fontSize=75&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20DevOps%20%2F%20MLOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Banner" />
 
 <!-- TYPING ANIMATION -->
+
 <a href="https://github.com/Sherazkarim1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=%F0%9F%A4%96+Building+AI-Powered+Systems+at+Scale;%E2%98%81%EF%B8%8F+Engineering+Cloud-Native+Infrastructure;%F0%9F%94%97+LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps+%7C+DevOps;%F0%9F%9A%80+Turning+Complex+Ideas+Into+Production-Ready+Systems;%E2%9A%A1+Automate.+Scale.+Secure.+Ship.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=Building+AI-Powered+Systems+at+Scale;Engineering+Cloud-Native+Infrastructure;LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps+%7C+DevOps;Turning+Complex+Ideas+Into+Production-Ready+Systems;Automate.+Scale.+Secure.+Ship.+Repeat." alt="Typing SVG" />
 </a>
+
 
 <br/>
 
