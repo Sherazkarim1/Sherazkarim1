@@ -42,9 +42,10 @@
 
 ### Hey there, I'm Sheraz
 
-I'm an **AI/DevOps Engineer & Full-Stack Developer**
+I'm an **AI/DevOps Engineer and Full-Stack Developer** who enjoys building things that solve real problems.
 
-I don't just build demos. I build **production systems**, the kind that handle real traffic, real users, and real failures.
+My work spans **AI/LLMs, cloud infrastructure, DevOps, MLOps, and full-stack development**. I focus on building systems that are practical, maintainable, and ready to move beyond the prototype stage.
+
 
 ```python
 class SherazKarim:
