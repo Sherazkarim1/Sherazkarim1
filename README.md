@@ -221,10 +221,6 @@ goal:
   and swap the domain below for your own Vercel URL.
 -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sherazkarim1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Sheraz's GitHub stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherazkarim1&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top languages" />
-
 </div>
 
 <br/>
