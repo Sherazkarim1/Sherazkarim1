@@ -38,11 +38,11 @@
 
 ---
 
-<h2 align="center" id="about-me">👋 ABOUT ME</h2>
+<h2 align="center" id="about-me"> ABOUT ME</h2>
 
 ### Hey there, I'm Sheraz
 
-I'm an **AI Engineer & Full-Stack Developer** focused on building **intelligent systems that scale**. My work sits at the intersection of **Generative AI**, **distributed systems**, and **production-grade cloud infrastructure**.
+I'm an **AI/DevOps Engineer & Full-Stack Developer**
 
 I don't just build demos. I build **production systems**, the kind that handle real traffic, real users, and real failures.
 
