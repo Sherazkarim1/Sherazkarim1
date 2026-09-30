@@ -6,7 +6,7 @@
 
 <!-- HERO BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SHERAZ%20KARIM&fontSize=75&fontColor=FFFFFF&fontAlignY=35&desc=AI%20/ PromptEngineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20DevOps%20%2F%20MLOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SHERAZ%20KARIM&fontSize=75&fontColor=FFFFFF&fontAlignY=35&desc=AI%20/PromptEngineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20DevOps%20%2F%20MLOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Banner" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Sherazkarim1">
